@@ -127,7 +127,6 @@ C:\Users\usuario\OneDrive\Escritorio\Archivos Francisco\Programacion\ASP\APIClie
 C:\Users\usuario\OneDrive\Escritorio\Archivos Francisco\Programacion\ASP\APIClientes\APIClientes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\usuario\OneDrive\Escritorio\Archivos Francisco\Programacion\ASP\APIClientes\APIClientes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\usuario\OneDrive\Escritorio\Archivos Francisco\Programacion\ASP\APIClientes\APIClientes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\usuario\OneDrive\Escritorio\Archivos Francisco\Programacion\ASP\APIClientes\APIClientes\obj\Debug\netcoreapp3.1\APIClientes.csproj.AssemblyReference.cache
 C:\Users\usuario\OneDrive\Escritorio\Archivos Francisco\Programacion\ASP\APIClientes\APIClientes\obj\Debug\netcoreapp3.1\APIClientes.AssemblyInfoInputs.cache
 C:\Users\usuario\OneDrive\Escritorio\Archivos Francisco\Programacion\ASP\APIClientes\APIClientes\obj\Debug\netcoreapp3.1\APIClientes.AssemblyInfo.cs
 C:\Users\usuario\OneDrive\Escritorio\Archivos Francisco\Programacion\ASP\APIClientes\APIClientes\obj\Debug\netcoreapp3.1\APIClientes.csproj.CoreCompileInputs.cache
